@@ -6,9 +6,10 @@
   }
 
 .bg-light {
-    background-color:wheat;
+    background-color:rgb(187, 133, 34);
         color: white !important;
 }
+
 
 i {
     font-size: 20px;
@@ -18,7 +19,7 @@ i {
 .current {
     border: none;
     width: 100%;
-    background-color: rgb(41, 245, 245);
+    background-color: rgb(19, 121, 204);
     margin-right: 25px;
 }
 
@@ -42,21 +43,12 @@ i {
 }
 
 .forecast {
-    background-color: rgba(29, 29, 158, 0.719);
+    background-color: blue;
     color: white;
     margin-bottom: 25px;
 }
 
-.footer {
-    bottom: 0;
-    width: 100%;
-    height: 100px;
-    line-height: 60px;
-    background-color: rgb(42, 42, 44);
-    color: white;
-    text-align: center;
-    font-size: 14px;
-}
+
 
 .btn-outline-success {
     color: rgb(41, 245, 245);
