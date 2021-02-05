@@ -6,7 +6,6 @@
   }
 
 .bg-light {
-    background-color:rgb(187, 133, 34);
         color: white !important;
 }
 
@@ -19,7 +18,7 @@ i {
 .current {
     border: none;
     width: 100%;
-    background-color: rgb(19, 121, 204);
+    background-color: rgb(109, 174, 240);
     margin-right: 25px;
 }
 
@@ -27,8 +26,8 @@ i {
     border: none;
     font-size: 24px;
     width: 100%;
-    background-color: rgb(42, 42, 44);
-    color: white;
+    background-color: rgb(219, 219, 230);
+    color: black;
     margin-right: 25px;
 }
 
@@ -37,8 +36,8 @@ i {
 .cities {
     width: 100%;
     width: 100%;
-    background-color: rgb(42, 42, 44);
-    color: white;
+    background-color: rgb(239, 239, 243);
+    color: black;
     margin-bottom: 25px;
 }
 
