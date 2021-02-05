@@ -145,10 +145,6 @@ for (var i = 0; i < localStorage.length; i++){
 }
 
 
-//link previous search results to search again
-
-//code goes here
-
 //insert current day
 
 var currentDay = moment().format("dddd, MMMM Do");
