@@ -20,7 +20,7 @@ Please see below the screenshots when the Code is deployed:
 ![startpage](Capture1.PNG)
 
 ## deployed link and the git hub link
-[live link](https://ramyamariyala.github.io/weatherDashboard/.)
-[github repository](https://github.com/Ramyamariyala/weatherDashboard.git)
+[live link](https://ramyamariyala.github.io/JavaScript-CodeQuiz/)
+[github repository](https://github.com/Ramyamariyala/JavaScript-CodeQuiz.git)
 
 
