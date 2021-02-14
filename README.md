@@ -24,6 +24,8 @@ Please see below the screenshots when the Code is deployed:
 [live link](https://ramyamariyala.github.io/weatherDashboard/.)
 [github repository](https://github.com/Ramyamariyala/weatherDashboard.git)
 
-
+## Contact Information
+ * Name :Ramya Mariyala
+ * Email: ramya.mariyala@gmail.com
 
 
