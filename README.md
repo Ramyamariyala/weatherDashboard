@@ -17,7 +17,7 @@ THEN user is presented with a 5-day forecast that displays the date, an icon rep
 
 Please see below the screenshots when the Code is deployed:
 
-![startpage](Capture1.PNG)
+![startpage](https://res.cloudinary.com/dn6cd98sl/image/upload/v1628556136/Capture1_dwjpnd.png)
 
 ## deployed link and the git hub link
 
